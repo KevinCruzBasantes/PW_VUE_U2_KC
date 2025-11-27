@@ -1,7 +1,8 @@
 <template>
   <div>
-    <Contador/>
-    <Contador/>
+    <Contador tit="Contador1" :inicio="4+4" :mostrar="true"/>
+    <Contador tit="Contador2"  :inicio="20" :mostrar="false"/>
+
   </div>
 </template>
 
