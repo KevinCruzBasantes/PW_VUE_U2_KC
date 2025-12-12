@@ -21,4 +21,8 @@ export default {
   justify-content: center;
   align-items: center;
 }
+body{
+    background-color:black;
+    color: black;
+}
 </style>
