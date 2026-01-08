@@ -14,15 +14,16 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 .view-container {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
-body{
+/*body{
     background-color:black;
     color: black;
-}
+}*/ 
+
 </style>
